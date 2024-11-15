@@ -1,0 +1,26 @@
+
+ .data {
+    height: 50vh;
+    width: 50%;
+ font-family: cursive;
+ background-color: beige;
+
+}
+h2{
+    font-family: monospace;
+}
+h1, h2, h3{
+    color: green;
+}
+.security{
+    height: 50vh;
+    width: 50%;
+    background-color: rgb(233, 233, 5);
+}
+.immagine{
+    height: 50vh;
+    width: 50%;
+    background-size: contain;
+    background-image: url('https://picsum.photos/seed/picsum/200/300');
+   background-size: contain;
+}
